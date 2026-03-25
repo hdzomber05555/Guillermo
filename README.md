@@ -1,6 +1,6 @@
 <div align="center">
  
-# ¡Hola, soy Guillermo Ángel Conesa! 👋
+# ¡Hola, soy Guillermo Ángel Conesa! 
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Administrador+de+Sistemas+en+Red;Apasionado+por+la+tecnolog%C3%ADa;Python+%7C+C%2B%2B+%7C+Shell+Script)](https://git.io/typing-svg)
  
@@ -8,7 +8,7 @@
  
 ---
  
-## 🧑‍💻 Sobre mí
+##  Sobre mí
  
 Soy técnico en **Administración de Sistemas Informáticos en Red (ASIR)**, con base en bachillerato y una sólida formación en administración de infraestructuras, redes y programación. Me apasiona la tecnología, la automatización de sistemas y el aprendizaje continuo.
  
@@ -19,16 +19,16 @@ guillermo@systems:~$ Guillermo Ángel Conesa
  
 ---
  
-## 🎓 Formación
+##  Formación
  
 | Nivel | Título |
 |-------|--------|
-| 🏫 Bachillerato | Bachillerato General |
-| 🎓 Grado Superior | Administración de Sistemas Informáticos en Red (ASIR) |
+|  Bachillerato | Bachillerato General |
+|  Grado Superior | Administración de Sistemas Informáticos en Red (ASIR) |
  
 ---
  
-## 🛠️ Tecnologías & Lenguajes
+##  Tecnologías & Lenguajes
  
 <div align="center">
  
@@ -38,15 +38,15 @@ guillermo@systems:~$ Guillermo Ángel Conesa
  
 </div>
  
-### 💡 Lo que puedo hacer
+###  Lo que puedo hacer
  
-- 🐍 **Python** — Scripting, automatización y desarrollo de herramientas
-- ⚙️ **C++** — Programación de sistemas y aplicaciones de bajo nivel
-- 🖥️ **Shell Script** — Automatización de tareas en entornos Linux/Unix
+-  **Python** — Scripting, automatización y desarrollo de herramientas
+-  **C++** — Programación de sistemas y aplicaciones de bajo nivel
+-  **Shell Script** — Automatización de tareas en entornos Linux/Unix
  
 ---
  
-## 🌐 Idiomas
+##  Idiomas
  
 | Idioma | Nivel |
 |--------|-------|
@@ -55,7 +55,7 @@ guillermo@systems:~$ Guillermo Ángel Conesa
  
 ---
  
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
  
 <div align="center">
  
@@ -67,13 +67,13 @@ guillermo@systems:~$ Guillermo Ángel Conesa
  
 ---
  
-## 📫 Contacto
+##  Contacto
  
 <div align="center">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-ángel-conesa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloangel2796@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hdzomber05555)
  
 </div>
  
@@ -81,8 +81,7 @@ guillermo@systems:~$ Guillermo Ángel Conesa
  
 <div align="center">
  
-*"La tecnología es mejor cuando une a las personas."* 🚀
+*"La tecnología es mejor cuando une a las personas."* 
  
-![Visitor Count](https://komarev.com/ghpvc/?username=TU_USUARIO&color=00d9ff&style=flat-square)
  
 </div>
